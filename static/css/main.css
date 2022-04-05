@@ -1,0 +1,23 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	background-color: darkgray;
+}
+
+body {
+	background-color: grey;
+	font-family: Arial;
+}
+
+h1 {
+	text-align: center;
+	padding: 10px 0;
+}
+
+header {
+	text-align: center;
+}
+
+iframe {
+	display: block; margin: 0 auto;
+}
